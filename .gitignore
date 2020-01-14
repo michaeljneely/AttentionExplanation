@@ -11,3 +11,9 @@ graph_outputs/adv_*
 graph_outputs/*kendalltop*
 graph_outputs/**/*.pdf
 NAACLAttention*
+# Virtual Environments/Local Installs
+bin/*
+lib/*
+share/*
+etc/*
+include/*
